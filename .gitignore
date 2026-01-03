@@ -39,3 +39,7 @@ yarn.lock
 
 # Workflows
 **/__pycache__
+
+# Local knowledge base
+siyuan/
+knowledge-base.zip
