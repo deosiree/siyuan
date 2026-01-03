@@ -41,5 +41,6 @@ yarn.lock
 **/__pycache__
 
 # Local knowledge base
-siyuan/
+sieyuan/
 knowledge-base.zip
+knowledge-base.tar.gz
